@@ -8,4 +8,9 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - Basic arithmetic operations (+, -, ×, ÷)
 - Clean and minimal design
 - Error handling for invalid expressions
-  
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
